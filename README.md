@@ -1,6 +1,9 @@
 # Interaction and Natural Language Processing Based Sentiment Analysis of Bangla Food Review in Social Media
-Author: Ataf Fazledin Ahamed (1705066 at ugrad.cse.buet.ac.bd) <br>
-Supervisor: Dr. Sadia Sharmin (sadia at cse.buet.ac.bd)
+Author: Ataf Fazledin Ahamed (`1705066 at ugrad.cse.buet.ac.bd`) <br>
+Supervisor: Dr. Sadia Sharmin (`sadia at cse.buet.ac.bd`)
+
+# Paper
+Link to article: https://www.ijcaonline.org/archives/volume187/number35/ahamed-2025-ijca-925106.pdf (IJCA 2025)
 
 ## Acknowledgement
 We are thankful to our advisor, Dr. Sadia Sharmin for her continuous support in our related
